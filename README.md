@@ -12,7 +12,7 @@ Also included are common ready-made form input fields for FormBuilder. This give
 
 3. Apply validators to inputs fields
 
-4. React to form fields changes and validations
+4. React to form fields changes and validations.
 
 ## Inputs
 
